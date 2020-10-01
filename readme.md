@@ -8,4 +8,4 @@
 4. 不属于GOF的模式
 
 ### 具体的介绍
-在简书上 有对应的学习笔记 欢迎指正批评 ：https://www.jianshu.com/c/ecfd249dcea2
+- [设计模式系列文章](https://github.com/fangfengxiang/blog-public/tree/master/PHP/PHP%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
